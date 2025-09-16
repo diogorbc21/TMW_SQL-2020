@@ -65,3 +65,7 @@ Depois de executarmos nossas queries, desejamos salvar o resultado em um nova ta
 
 Chegou a hora de tirar dúvidas e abordar tópicos diversos que deixamos de falar ou que merecem maior destaque.
 
+
+______________________________________________
+
+Comment 1
